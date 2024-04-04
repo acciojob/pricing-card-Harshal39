@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+#card{
+	border:1px solid black;
+	box-sizing:border-box;
+	width:500px;
+	height:600px;
+	margin:90px
+	box-shadow: 5px 5px 5px 5px lightblue;
+}
+img{
+	width:300px;
+	height:250px;
+	margin-left:90px;
+	margin-top:40px;
+}
+
+h1{
+	margin-left:90px;
+}
+
+p{
+	margin-left:90px;
+}
+
+button{
+	margin:90px;
+	background-color:red;
+	border-radius:10px;
+	color:white;
+}
